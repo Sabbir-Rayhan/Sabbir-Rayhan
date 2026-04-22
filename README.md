@@ -182,7 +182,7 @@ const sabbir = {
 ## ⚡ Competitive Programming
 
 <div align="center">
-```
+
 ╔═══════════════════════════════════════════════════════════════════╗
 ║            ⚡  COMPETITIVE PROGRAMMING  STATS  ⚡                ║
 ╠══════════════╦═══════════════╦═════════════╦═════════════════════╣
@@ -194,7 +194,7 @@ const sabbir = {
 ╠══════════════╩═══════════════╩═════════════╩═════════════════════╣
 ║       📊  Total : 500+ problems solved   |   Active since 2022   ║
 ╚═══════════════════════════════════════════════════════════════════╝
-```
+
 
 <a href="https://codeforces.com/profile/S.R._Mahee">
   <img src="https://img.shields.io/badge/Codeforces-S.R._Mahee_%7C_Rating_1077-1B4F91?style=for-the-badge&logo=codeforces&logoColor=white" />
