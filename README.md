@@ -11,69 +11,69 @@
 <!-- SOCIAL BADGES -->
 <p>
   <a href="https://maheeportfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-0d1117?style=for-the-badge&logoColor=38BDF8&color=38BDF8&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-38BDF8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sabbir-rayhan-mahee" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
   </a>
   &nbsp;
   <a href="mailto:s.rayhanmahee@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
   </a>
   &nbsp;
   <a href="https://codeforces.com/profile/S.R._Mahee" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1B4F91?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/Codeforces-1077%20Rating-1B4F91?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117" />
   </a>
   &nbsp;
   <a href="https://leetcode.com/u/mahee45/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-100%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" />
   </a>
 </p>
 
 <!-- STATUS BADGES -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Sabbir-Rayhan&color=38bdf8&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Sabbir-Rayhan&color=38bdf8&style=for-the-badge&label=Profile+Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/Sabbir-Rayhan?label=Followers&style=flat-square&color=38bdf8&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/followers/Sabbir-Rayhan?label=Followers&style=for-the-badge&color=38bdf8&labelColor=0d1117&logo=github&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work%20✅-38BDF8?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Available-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0d1117" />
 </p>
 
 </div>
 
 ---
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
-
 ## 🧑‍💻 About Me
+
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding gif" />
 
 ```typescript
 const sabbir = {
-  name:       "Sabbir Rayhan Mahee",
-  role:       "Full-Stack Web Developer",
-  education:  "B.Sc. CSE — CUET (2022–Present, CGPA: 3.22)",
-  location:   "Khulna, Bangladesh 🇧🇩",
-  portfolio:  "maheeportfolio.vercel.app",
-  email:      "s.rayhanmahee@gmail.com",
+  name:      "Sabbir Rayhan Mahee",
+  role:      "Full-Stack Web Developer",
+  education: "B.Sc. CSE — CUET (2022–Present)",
+  cgpa:      3.22,
+  location:  "Khulna, Bangladesh 🇧🇩",
+  portfolio: "maheeportfolio.vercel.app",
 
   stack: {
-    frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Shadcn UI"],
+    frontend: ["Next.js", "React", "TypeScript", "Tailwind"],
     backend:  ["Node.js", "Express.js", "REST API", "JWT"],
     database: ["PostgreSQL", "Prisma ORM", "MongoDB"],
     devops:   ["Vercel", "Railway", "Git", "Linux"],
   },
 
-  askMeAbout:        ["Next.js", "Node.js", "TypeScript", "PostgreSQL", "Prisma ORM"],
-  currentlyBuilding: "Production-grade full-stack web applications",
-  learning:          "Advanced system design & scalable architecture",
+  currentlyBuilding: "Production-grade full-stack apps",
+  learning:          "System design & scalable architecture",
 
-  competitiveProgramming: {
+  cp: {
     totalSolved: "500+",
-    platforms:   ["Codeforces (rating: 1077)", "LeetCode", "VJudge", "CodeChef"],
+    codeforces:  "1077 rating (S.R._Mahee)",
+    leetcode:    "100+ solved (mahee45)",
   },
 
-  funFact: "I debug with console.log and I'm not ashamed 😄",
+  funFact: "I debug with console.log 😄",
 };
 ```
 
@@ -85,38 +85,33 @@ const sabbir = {
 
 <div align="center">
 
-**⚡ Frontend**
+### ⚡ Frontend
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,html,css&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white&labelColor=0d1117" height="26"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white&labelColor=0d1117" height="26"/>
+&nbsp;
+<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white&labelColor=0d1117" height="26"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white&labelColor=0d1117" height="26"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white&labelColor=0d1117" height="26"/>
 
-**🔧 Backend & Database**
+### 🔧 Backend & Database
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,mongodb,mysql&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=0d1117" height="26"/>
+&nbsp;
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=0d1117" height="26"/>
 
-**☁️ DevOps & Tools**
+### ☁️ DevOps & Tools
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<img src="https://skillicons.dev/icons?i=vercel,git,github,linux,vscode,postman,cpp&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Railway-131415?style=flat-square&logo=railway&logoColor=white&labelColor=0d1117" height="26"/>
 
 </div>
 
@@ -128,8 +123,8 @@ const sabbir = {
 
 ### 🔷 Planora — Event Management Platform
 
-[![Planora Frontend](https://github-readme-stats.vercel.app/api/pin/?username=Sabbir-Rayhan&repo=Planora-frontend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8)](https://github.com/Sabbir-Rayhan/Planora-frontend)
-[![Planora Backend](https://github-readme-stats.vercel.app/api/pin/?username=Sabbir-Rayhan&repo=Planora-backend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8)](https://github.com/Sabbir-Rayhan/Planora-backend)
+[![Planora Frontend](https://github-readme-stats.vercel.app/api/pin/?username=Sabbir-Rayhan&repo=Planora-frontend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&border_radius=12)](https://github.com/Sabbir-Rayhan/Planora-frontend)
+[![Planora Backend](https://github-readme-stats.vercel.app/api/pin/?username=Sabbir-Rayhan&repo=Planora-backend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&border_radius=12)](https://github.com/Sabbir-Rayhan/Planora-backend)
 
 </div>
 
@@ -143,8 +138,8 @@ const sabbir = {
 
 ### 🔶 SkillBridge — Tutoring Marketplace
 
-[![SkillBridge Frontend](https://github-readme-stats.vercel.app/api/pin/?username=Sabbir-Rayhan&repo=skillbridge-frontend2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818CF8&icon_color=818CF8&text_color=94A3B8)](https://github.com/Sabbir-Rayhan/skillbridge-frontend2)
-[![SkillBridge Backend](https://github-readme-stats.vercel.app/api/pin/?username=Sabbir-Rayhan&repo=skillbridge-backend2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818CF8&icon_color=818CF8&text_color=94A3B8)](https://github.com/Sabbir-Rayhan/skillbridge-backend2)
+[![SkillBridge Frontend](https://github-readme-stats.vercel.app/api/pin/?username=Sabbir-Rayhan&repo=skillbridge-frontend2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818CF8&icon_color=818CF8&text_color=94A3B8&border_radius=12)](https://github.com/Sabbir-Rayhan/skillbridge-frontend2)
+[![SkillBridge Backend](https://github-readme-stats.vercel.app/api/pin/?username=Sabbir-Rayhan&repo=skillbridge-backend2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818CF8&icon_color=818CF8&text_color=94A3B8&border_radius=12)](https://github.com/Sabbir-Rayhan/skillbridge-backend2)
 
 </div>
 
@@ -158,8 +153,8 @@ const sabbir = {
 
 ### 🟢 Other Projects
 
-[![CUETFinders](https://github-readme-stats.vercel.app/api/pin/?username=Sabbir-Rayhan&repo=CUETFinders&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=34D399&icon_color=34D399&text_color=94A3B8)](https://github.com/Sabbir-Rayhan/CUETFinders)
-[![Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=Sabbir-Rayhan&repo=Ecommerce-Website&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FB923C&icon_color=FB923C&text_color=94A3B8)](https://github.com/Sabbir-Rayhan/Ecommerce-Website)
+[![CUETFinders](https://github-readme-stats.vercel.app/api/pin/?username=Sabbir-Rayhan&repo=CUETFinders&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=34D399&icon_color=34D399&text_color=94A3B8&border_radius=12)](https://github.com/Sabbir-Rayhan/CUETFinders)
+[![Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=Sabbir-Rayhan&repo=Ecommerce-Website&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FB923C&icon_color=FB923C&text_color=94A3B8&border_radius=12)](https://github.com/Sabbir-Rayhan/Ecommerce-Website)
 
 </div>
 
@@ -176,7 +171,7 @@ const sabbir = {
 </div>
 
 <div align="center">
-  <img width="72%" src="https://github-readme-streak-stats.herokuapp.com?user=Sabbir-Rayhan&theme=tokyonight&hide_border=true&background=0d1117&stroke=38BDF820&ring=38BDF8&fire=FB923C&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&border_radius=12" />
+  <img width="72%" src="https://streak-stats.demolab.com?user=Sabbir-Rayhan&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=FB923C&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&border_radius=12" />
 </div>
 
 <div align="center">
@@ -188,7 +183,7 @@ const sabbir = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sabbir-Rayhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sabbir-Rayhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
 </div>
 
 ---
@@ -212,11 +207,11 @@ const sabbir = {
 ```
 
 <a href="https://codeforces.com/profile/S.R._Mahee">
-  <img src="https://img.shields.io/badge/Codeforces-S.R._Mahee_%7C_Rating_1077-1B4F91?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codeforces-S.R._Mahee%20%7C%20Rating%201077-1B4F91?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117" />
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/mahee45/">
-  <img src="https://img.shields.io/badge/LeetCode-mahee45_%7C_100%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-mahee45%20%7C%20100%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" />
 </a>
 
 </div>
@@ -252,15 +247,15 @@ const sabbir = {
 
 <p>
   <a href="https://maheeportfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-38BDF8?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sabbir-rayhan-mahee" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
   </a>
   &nbsp;
   <a href="mailto:s.rayhanmahee@gmail.com">
-    <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
   </a>
 </p>
 
