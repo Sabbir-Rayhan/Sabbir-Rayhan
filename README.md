@@ -154,7 +154,7 @@ const sabbir = {
   
 ### 🔴 Online News Portal — A Daily Story
 
-[![FrontEnd]](https://github.com/Sabbir-Rayhan/Online-News-Portal)
+[FrontEnd](https://github.com/Sabbir-Rayhan/Online-News-Portal)
 
 </div>
 
