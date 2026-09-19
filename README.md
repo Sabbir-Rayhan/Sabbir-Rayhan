@@ -149,6 +149,21 @@ const sabbir = {
 
 ---
 
+
+<div align="center">
+[![Online News Portal](https://vercel.app)](https://github.com/Sabbir-Rayhan/Online-News-Portal)
+
+</div>
+
+> 🌐 **[Live Demo](https://online-news-platform-five.vercel.app)** — A dynamic online news portal featuring real-time news updates, interactive category-based filtering, responsive design, and smooth article browsing.
+
+`React` `Vite` `JavaScript` `Tailwind CSS` `Vercel`
+
+</div>
+
+---
+
+
 <div align="center">
 
 ### 🟢 Other Projects
