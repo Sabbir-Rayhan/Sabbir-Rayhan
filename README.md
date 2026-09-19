@@ -52,8 +52,8 @@
 const sabbir = {
   name:      "Sabbir Rayhan Mahee",
   role:      "Full-Stack Web Developer",
-  education: "B.Sc. CSE — CUET (2022–Present)",
-  cgpa:      3.22,
+  education: "B.Sc. CSE — CUET (2022–2026)",
+  cgpa:      3.28,
   location:  "Khulna, Bangladesh 🇧🇩",
   portfolio: "maheeportfolio.vercel.app",
 
