@@ -158,7 +158,7 @@ const sabbir = {
 
 </div>
 
-> 🌐 **[Live Demo](https://online-news-platform-five.vercel.app)** — A dynamic online news portal featuring real-time news updates, interactive category-based filtering, responsive design, and smooth article browsing.
+> 🌐 **[Live Demo](online-news-dusky.vercel.app)** — A dynamic online news portal featuring real-time news updates, interactive category-based filtering, responsive design, and smooth article browsing.
 
 `React` `Vite` `JavaScript` `Tailwind CSS` `Vercel`
 
