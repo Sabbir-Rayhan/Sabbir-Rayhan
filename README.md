@@ -210,7 +210,7 @@ const sabbir = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sabbir-Rayhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+  <img src="https://github-profile-trophy-three-dusky.vercel.app/?username=Sabbir-Rayhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
 </div>
 
 ---
@@ -219,7 +219,7 @@ const sabbir = {
 
 <div align="center">
 
-```
+<pre align="center">
 ╔═══════════════════════════════════════════════════════════════════╗
 ║            ⚡  COMPETITIVE PROGRAMMING  STATS  ⚡                ║
 ╠══════════════╦═══════════════╦═════════════╦═════════════════════╣
@@ -231,7 +231,7 @@ const sabbir = {
 ╠══════════════╩═══════════════╩═════════════╩═════════════════════╣
 ║       📊  Total : 500+ problems solved   |   Active since 2022   ║
 ╚═══════════════════════════════════════════════════════════════════╝
-```
+</pre>
 
 <a href="https://codeforces.com/profile/S.R._Mahee">
   <img src="https://img.shields.io/badge/Codeforces-S.R._Mahee%20%7C%20Rating%201077-1B4F91?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117" />
