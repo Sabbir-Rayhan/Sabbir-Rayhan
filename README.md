@@ -122,8 +122,8 @@ const sabbir = {
 
 ### 🔷 Planora — Event Management Platform
 
-[![Planora Frontend](https://github-readme-stats.vercel.app/api/pin/?username=Sabbir-Rayhan&repo=Planora-frontend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&border_radius=12)](https://github.com/Sabbir-Rayhan/Planora-frontend)
-[![Planora Backend](https://github-readme-stats.vercel.app/api/pin/?username=Sabbir-Rayhan&repo=Planora-backend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&border_radius=12)](https://github.com/Sabbir-Rayhan/Planora-backend)
+[![Planora Frontend](https://github-readme-stats-eight-gamma-27.vercel.app/api/pin/?username=Sabbir-Rayhan&repo=Planora-frontend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&border_radius=12)](https://github.com/Sabbir-Rayhan/Planora-frontend)
+[![Planora Backend](https://github-readme-stats-eight-gamma-27.vercel.app/api/pin/?username=Sabbir-Rayhan&repo=Planora-backend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&border_radius=12)](https://github.com/Sabbir-Rayhan/Planora-backend)
 
 </div>
 
@@ -137,8 +137,8 @@ const sabbir = {
 
 ### 🔶 SkillBridge — Tutoring Marketplace
 
-[![SkillBridge Frontend](https://github-readme-stats.vercel.app/api/pin/?username=Sabbir-Rayhan&repo=skillbridge-frontend2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818CF8&icon_color=818CF8&text_color=94A3B8&border_radius=12)](https://github.com/Sabbir-Rayhan/skillbridge-frontend2)
-[![SkillBridge Backend](https://github-readme-stats.vercel.app/api/pin/?username=Sabbir-Rayhan&repo=skillbridge-backend2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818CF8&icon_color=818CF8&text_color=94A3B8&border_radius=12)](https://github.com/Sabbir-Rayhan/skillbridge-backend2)
+[![SkillBridge Frontend](https://github-readme-stats-eight-gamma-27.vercel.app/api/pin/?username=Sabbir-Rayhan&repo=skillbridge-frontend2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818CF8&icon_color=818CF8&text_color=94A3B8&border_radius=12)](https://github.com/Sabbir-Rayhan/skillbridge-frontend2)
+[![SkillBridge Backend](https://github-readme-stats-eight-gamma-27.vercel.app/api/pin/?username=Sabbir-Rayhan&repo=skillbridge-backend2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818CF8&icon_color=818CF8&text_color=94A3B8&border_radius=12)](https://github.com/Sabbir-Rayhan/skillbridge-backend2)
 
 </div>
 
@@ -178,8 +178,8 @@ const sabbir = {
 
 ### 🟢 Other Projects
 
-[![CUETFinders](https://github-readme-stats.vercel.app/api/pin/?username=Sabbir-Rayhan&repo=CUETFinders&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=34D399&icon_color=34D399&text_color=94A3B8&border_radius=12)](https://github.com/Sabbir-Rayhan/CUETFinders)
-[![Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=Sabbir-Rayhan&repo=Ecommerce-Website&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FB923C&icon_color=FB923C&text_color=94A3B8&border_radius=12)](https://github.com/Sabbir-Rayhan/Ecommerce-Website)
+[![CUETFinders](https://github-readme-stats-eight-gamma-27.vercel.app/api/pin/?username=Sabbir-Rayhan&repo=CUETFinders&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=34D399&icon_color=34D399&text_color=94A3B8&border_radius=12)](https://github.com/Sabbir-Rayhan/CUETFinders)
+[![Ecommerce](https://github-readme-stats-eight-gamma-27.vercel.app/api/pin/?username=Sabbir-Rayhan&repo=Ecommerce-Website&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FB923C&icon_color=FB923C&text_color=94A3B8&border_radius=12)](https://github.com/Sabbir-Rayhan/Ecommerce-Website)
 
 **CUETFinders** — a campus lost-and-found platform for CUET students with search, filtering, and status tracking (submitted → found → resolved), built with Node.js, Express.js, and MongoDB.
 
@@ -191,9 +191,9 @@ const sabbir = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sabbir-Rayhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&border_radius=12&count_private=true&include_all_commits=true" height="175" />
+<img src="https://github-readme-stats-eight-gamma-27.vercel.app/api?username=Sabbir-Rayhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&border_radius=12&count_private=true&include_all_commits=true" height="175" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir-Rayhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=94A3B8&border_radius=12&langs_count=8" height="175" />
+<img src="https://github-readme-stats-eight-gamma-27.vercel.app/api/top-langs/?username=Sabbir-Rayhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=94A3B8&border_radius=12&langs_count=8" height="175" />
 
 </div>
 
