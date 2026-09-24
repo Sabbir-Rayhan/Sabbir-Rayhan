@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sabbir%20Rayhan%20Mahee&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20Next.js%20%C2%B7%20Node.js%20%C2%B7%20TypeScript%20%C2%B7%20PostgreSQL&descAlignY=58&descSize=16&descColor=94A3B8" />
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=🚀+Building+production-grade+web+applications;⚡+Next.js+%7C+Node.js+%7C+TypeScript+%7C+PostgreSQL;🔧+From+database+schema+to+pixel-perfect+UI;🧠+500%2B+competitive+programming+problems+solved;🌐+Open+to+full-time+%26+freelance+opportunities!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=🚀+Building+production-grade+web+applications;⚡+Next.js+%7C+Node.js+%7C+TypeScript+%7C+PostgreSQL;🔧+From+database+schema+to+pixel-perfect+UI;🧠+500%2B+competitive+programming+problems+solved;🎓+B.Sc.+CSE+Graduate+%40+CUET%2C+2026;🌐+Open+to+full-time+%26+freelance+opportunities!" alt="Typing SVG" />
 
 <br/>
 
@@ -52,8 +52,7 @@
 const sabbir = {
   name:      "Sabbir Rayhan Mahee",
   role:      "Software Engineer | Full-Stack Web Developer",
-  education: "B.Sc. CSE — CUET (2022–2026)",
-  cgpa:      3.28,
+  education: "B.Sc. CSE — CUET (2022–2026) 🎓 Graduated, CGPA 3.28/4.00",
   location:  "Khulna, Bangladesh 🇧🇩",
   portfolio: "maheeportfolio.vercel.app",
 
@@ -149,12 +148,11 @@ const sabbir = {
 
 ---
 
-
 <div align="center">
-  
+
 ### 🔴 Online News Portal — A Daily Story
 
-[FrontEnd](https://github.com/Sabbir-Rayhan/Online-News-Portal)
+[Frontend](https://github.com/Sabbir-Rayhan/Online-News-Portal)
 
 </div>
 
@@ -164,6 +162,17 @@ const sabbir = {
 
 ---
 
+<div align="center">
+
+### 🟣 Dragon News — News Portal (React 19 + Firebase)
+
+</div>
+
+> 🌐 A fully responsive news portal built with the latest React 19 and Vite 6 tooling, featuring Firebase authentication, category browsing, a mobile slide-in navigation drawer, and dedicated About/Career pages.
+
+`React 19` `Vite` `Tailwind CSS v4` `DaisyUI` `Firebase Auth` `React Router v7` `Vercel`
+
+---
 
 <div align="center">
 
@@ -171,6 +180,8 @@ const sabbir = {
 
 [![CUETFinders](https://github-readme-stats.vercel.app/api/pin/?username=Sabbir-Rayhan&repo=CUETFinders&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=34D399&icon_color=34D399&text_color=94A3B8&border_radius=12)](https://github.com/Sabbir-Rayhan/CUETFinders)
 [![Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=Sabbir-Rayhan&repo=Ecommerce-Website&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FB923C&icon_color=FB923C&text_color=94A3B8&border_radius=12)](https://github.com/Sabbir-Rayhan/Ecommerce-Website)
+
+**CUETFinders** — a campus lost-and-found platform for CUET students with search, filtering, and status tracking (submitted → found → resolved), built with Node.js, Express.js, and MongoDB.
 
 </div>
 
