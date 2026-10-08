@@ -162,19 +162,6 @@ const sabbir = {
 
 `Next.js 15` `TypeScript` `better-auth` `Tailwind CSS` `Axios` `Node.js` `Vercel`
 
----
-
-<div align="center">
-
-### 🔴 Online News Portal — A Daily Story
-
-[Frontend](https://github.com/Sabbir-Rayhan/Online-News-Portal)
-
-</div>
-
-> 🌐 **[Live Demo](https://online-news-dusky.vercel.app)** — A dynamic online news portal featuring real-time news updates, interactive category-based filtering, responsive design, and smooth article browsing.
-
-`React` `Vite` `JavaScript` `Tailwind CSS` `Vercel`
 
 ---
 
