@@ -122,6 +122,14 @@ const sabbir = {
 
 ### 🔷 Planora — Event Management Platform
 
+<a href="https://planora-frontend-orpin.vercel.app" target="_blank">
+  <img src="https://raw.githubusercontent.com/Sabbir-Rayhan/My_Portfolio/main/public/projects/planora.jpg" width="720" alt="Planora — Event Management Platform screenshot" />
+</a>
+<br/>
+<sub>Click the screenshot to open the live demo</sub>
+
+<br/><br/>
+
 [![Planora Frontend](https://github-readme-stats-eight-gamma-27.vercel.app/api/pin/?username=Sabbir-Rayhan&repo=Planora-frontend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&border_radius=12)](https://github.com/Sabbir-Rayhan/Planora-frontend)
 [![Planora Backend](https://github-readme-stats-eight-gamma-27.vercel.app/api/pin/?username=Sabbir-Rayhan&repo=Planora-backend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&border_radius=12)](https://github.com/Sabbir-Rayhan/Planora-backend)
 
@@ -136,6 +144,14 @@ const sabbir = {
 <div align="center">
 
 ### 🔶 SkillBridge — Tutoring Marketplace
+
+<a href="https://skillbridge-topaz.vercel.app" target="_blank">
+  <img src="https://raw.githubusercontent.com/Sabbir-Rayhan/My_Portfolio/main/public/projects/skillbridge.jpg" width="720" alt="SkillBridge — Tutoring Marketplace screenshot" />
+</a>
+<br/>
+<sub>Click the screenshot to open the live demo</sub>
+
+<br/><br/>
 
 [![SkillBridge Frontend](https://github-readme-stats-eight-gamma-27.vercel.app/api/pin/?username=Sabbir-Rayhan&repo=skillbridge-frontend2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818CF8&icon_color=818CF8&text_color=94A3B8&border_radius=12)](https://github.com/Sabbir-Rayhan/skillbridge-frontend2)
 [![SkillBridge Backend](https://github-readme-stats-eight-gamma-27.vercel.app/api/pin/?username=Sabbir-Rayhan&repo=skillbridge-backend2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818CF8&icon_color=818CF8&text_color=94A3B8&border_radius=12)](https://github.com/Sabbir-Rayhan/skillbridge-backend2)
@@ -166,9 +182,15 @@ const sabbir = {
 
 ### 🟣 Dragon News — News Portal (React 19 + Firebase)
 
+<a href="https://online-news-dusky.vercel.app" target="_blank">
+  <img src="https://raw.githubusercontent.com/Sabbir-Rayhan/My_Portfolio/main/public/projects/dragon-news.jpg" width="720" alt="The Dragon News — News Portal screenshot" />
+</a>
+<br/>
+<sub>Click the screenshot to open the live demo</sub>
+
 </div>
 
-> 🌐 A fully responsive news portal built with the latest React 19 and Vite 6 tooling, featuring Firebase authentication, category browsing, a mobile slide-in navigation drawer, and dedicated About/Career pages.
+> 🌐 **[Live Demo](https://online-news-dusky.vercel.app)** — A fully responsive news portal built with the latest React 19 and Vite 6 tooling, featuring Firebase authentication, category browsing, a mobile slide-in navigation drawer, and dedicated About/Career pages.
 
 `React 19` `Vite` `Tailwind CSS v4` `DaisyUI` `Firebase Auth` `React Router v7` `Vercel`
 
