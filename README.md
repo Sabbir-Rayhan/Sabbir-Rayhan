@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sabbir%20Rayhan%20Mahee&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20Next.js%20%C2%B7%20Node.js%20%C2%B7%20TypeScript%20%C2%B7%20PostgreSQL&descAlignY=58&descSize=16&descColor=94A3B8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sabbir%20Rayhan%20Mahee&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Web%20Developer&descAlignY=58&descSize=20&descColor=94A3B8" />
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=🚀+Building+production-grade+web+applications;⚡+Next.js+%7C+Node.js+%7C+TypeScript+%7C+PostgreSQL;🔧+From+database+schema+to+pixel-perfect+UI;🧠+500%2B+competitive+programming+problems+solved;🎓+B.Sc.+CSE+Graduate+%40+CUET%2C+2026;🌐+Open+to+full-time+%26+freelance+opportunities!" alt="Typing SVG" />
